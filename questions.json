@@ -1,0 +1,60 @@
+{
+  "questions": [
+    {
+      "questiion_one": "If U = {1, 3, 5, 7, 9, 11, 13}, then which of the following are subsets of U.",
+      "options": [
+        { "a": "{5, 11, 1}" },
+        { "b": "{2, 3, 4, 5}" },
+        { "c": "{0}" },
+        { "d": "{2, 4}" }
+      ],
+      "ans": "{5, 11, 1}",
+      "option": "a"
+    },
+    {
+      "questiion_two": "Let A = {2, 3, 4, 5, 6, 7} B = {2, 4, 7, 8) C = {2, 4}. Fill in the blanks by ⊂ or ⊄ to make the resulting statements true.",
+      "options": [
+        { "a": "C __ C" },
+        { "b": "C __ A" },
+        { "c": "B __ A" },
+        { "d": "∅ __ B" }
+      ],
+      "ans": "B ⊄ A",
+      "option": "c"
+    },
+    {
+      "questiion_three": "Which of the following sets is a universal set for the other four sets?",
+      "options": [
+        { "a": "The set of negative numbers" },
+        { "b": "The set of odd natural numbers" },
+        { "c": "The set of natural numbers" },
+        { "d": "The set of integers" }
+      ],
+      "ans": "The set of integers",
+      "option": "d"
+    },
+    {
+      "questiion_four": "Find the number of subsets for set containing 3 elements",
+      "options": [{ "a": "12" }, { "b": "8" }, { "c": "9" }, { "d": "19" }],
+      "ans": "8",
+      "option": "b"
+    },
+    {
+      "questiion_five": "Find the number of proper subsets of a set containing 6 elements",
+      "options": [{ "a": "63" }, { "b": "25" }, { "c": "15" }, { "d": "72" }],
+      "ans": "63",
+      "option": "a"
+    },
+    {
+      "questiion_six": "What is the universal set for the Prime numbers less than 10, even numbers less than 10, multiples of 3 less than 10.",
+      "options": [
+        { "a": "{2, 3, 4, 5, 7, 8, 9, 10}" },
+        { "b": "{4, 5, 6, 7, 8, 9, 10}" },
+        { "c": "{3, 4, 5, 6, 7, 8}" },
+        { "d": "{2, 3, 4, 5, 6, 7, 8, 9, 10}" }
+      ],
+      "ans": "{2, 3, 4, 5, 6, 7, 8, 9, 10}",
+      "option": "d"
+    }
+  ]
+}
