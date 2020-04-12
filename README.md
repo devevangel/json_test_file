@@ -5,6 +5,6 @@ This is a JSON dummy object containing multiple choice questions and answers tha
 
 --- Fork this repo.
 
---- then run git clone <url>\n
+--- then run git clone <url>
   
 --- Happy hacking :)
